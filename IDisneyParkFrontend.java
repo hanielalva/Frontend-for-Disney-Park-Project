@@ -2,7 +2,7 @@
  * This interface defines methods to display the user interface of the program
  * and control all front end functionality
  *
- * @author Haniel Alva
+ * @author Haniel Alva & Sreyas Srivastava
  */
 public interface IDisneyParkFrontend {
 
