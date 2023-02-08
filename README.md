@@ -1,8 +1,8 @@
 # Frontend-for-Disney-Park-Project
 Frontend for Dijkstra’s shortest path based Disney Park Java Project
 
-This repository displays my work right before integrating with my other project partners. All of the files were my own creation, except for the interface files IAttraction.java and IDisneyParkBackend.java, which were created by my partners Henry and Anton. They were the Backend developers and their interfaces were used to make the placeholder classes that I used to run my Frontend program. 
+This repository displays my work right before integrating with my other project partners. Most of the files were my own creation. The interface files IAttraction.java and IDisneyParkBackend.java were created by my partners Henry and Anton who were the Backend developers of the project. Their interfaces were used to make the placeholder classes that I used to run my Frontend program before integrating with the whole project. IDisneyParkFrontend.java was made by myself and Sreyas, the other Frontend Developer.
 
-Two other java classes were used to run the Disney Park application, but they have to be omitted from this public repository as it has sensitive code that is against project policy to share.
+Two other java classes that the Disney Park application depends on to run have to be omitted from this public repository as they have sensitive code that is against project policy to share.
 
 Each file and each method in these files have detailed comments about their use
